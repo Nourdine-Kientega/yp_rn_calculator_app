@@ -1,0 +1,7 @@
+
+                                            ======== 28/12/2024 =======
+
+=> npx create-expo-app calculator_app; 
+
+=> npx expo-doctor; ok !
+
